@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75082a6ce31a5e9468bc563793549676, type: 3}
+  m_Name: 11.Leaves
+  m_EditorClassIdentifier: 
+  blockName: leaves
+  isSolid: 1
+  renderNeighborFaces: 1
+  isLiquidType: 0
+  transparency: 0.75
+  icon: {fileID: -9205221584584489300, guid: 2120b2130f9246b4b989a90549088384, type: 3}
+  blockDescription: Trees Leaves, you can feed herbivores animal with it
+  maxStack: 80
+  maxCondition: 0
+  frontFaceTexture: 16
+  backFaceTexture: 16
+  topFaceTexture: 16
+  bottomFaceTexture: 16
+  leftFaceTexture: 16
+  rightFaceTexture: 16

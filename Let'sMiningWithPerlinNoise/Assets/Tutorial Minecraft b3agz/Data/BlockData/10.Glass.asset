@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75082a6ce31a5e9468bc563793549676, type: 3}
+  m_Name: 10.Glass
+  m_EditorClassIdentifier: 
+  blockName: glass
+  isSolid: 1
+  renderNeighborFaces: 1
+  isLiquidType: 0
+  transparency: 0.85
+  icon: {fileID: 21300018, guid: 2822219ca9b3cfc40aec85f96a4e33cd, type: 3}
+  blockDescription: Transparent glass, you can see through it
+  maxStack: 99
+  maxCondition: 0
+  frontFaceTexture: 3
+  backFaceTexture: 3
+  topFaceTexture: 3
+  bottomFaceTexture: 3
+  leftFaceTexture: 3
+  rightFaceTexture: 3

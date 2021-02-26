@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75082a6ce31a5e9468bc563793549676, type: 3}
+  m_Name: 12.Cactus
+  m_EditorClassIdentifier: 
+  blockName: cactus
+  isSolid: 1
+  renderNeighborFaces: 0
+  isLiquidType: 0
+  transparency: 0
+  icon: {fileID: 4947747515796799012, guid: 2120b2130f9246b4b989a90549088384, type: 3}
+  blockDescription: Cactus, it has throrn so becareful
+  maxStack: 80
+  maxCondition: 0
+  frontFaceTexture: 18
+  backFaceTexture: 18
+  topFaceTexture: 18
+  bottomFaceTexture: 18
+  leftFaceTexture: 18
+  rightFaceTexture: 18
